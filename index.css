@@ -97,3 +97,15 @@ h3.header{
     width: 20%;
     min-width: 150px;
 }
+
+footer a {
+    color: lightgrey;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer a:hover i {
+    text-decoration: underline;
+}
